@@ -6,7 +6,7 @@ public class Hello {
 		System.out.printf("Java Was Created In %d",1992);
 		System.out.printf("Java Was Free for %c%.2f", '$', 0.0000);
 		System.out.printf("Do you love Java %c %b",'?',true);
-		System.out.printf(Yes Learning %s is annoying","Java");
+		System.out.printf("Yes Learning %s is annoying", "Java");
 		}
 		
 }
