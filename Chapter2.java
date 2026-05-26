@@ -1,5 +1,5 @@
 /* STREAMING_CHUNK:Defining the main class for Chapter 2 answers */
-public class Chapter2 {
+public class Chapter2
 
     /* STREAMING_CHUNK:Defining the main method */
     public static void main(String[] args) {
