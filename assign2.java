@@ -13,4 +13,4 @@ public class Classwork1 {
         System.out.println("Average: " + sum / 5.0);
         System.out.println("Product: " + product);
     }
-}
+};
